@@ -1,6 +1,6 @@
 import csv
 lines = []
-
+#done
 def task2():
     liveness_sum = 0
     counter = 0
